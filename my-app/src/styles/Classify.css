@@ -1,0 +1,17 @@
+select {
+  padding: 5px 35px 5px 5px;
+  color: rgb(137, 137, 137);
+  font-size: 16px;
+  margin-bottom: 20px;
+  border: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: url(https://lh3.googleusercontent.com/proxy/QfFDIYeLXkVIRGEpoeLHJe-i9bfCKzOqo_7soL2oz_l5vwBUZTWOCqyZgM8NcgZDf58wWrpCnsCGhEAP5uqGr7PEU_MGkeg) 90% / 12% no-repeat rgb(247, 247, 247);
+}
+
+input {
+  border: 1px solid rgb(187, 187, 187);
+  background-color: rgb(247, 247, 247);
+  height: 30px;
+}
